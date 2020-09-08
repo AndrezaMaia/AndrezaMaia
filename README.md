@@ -10,7 +10,7 @@
 - :green_book: Aprendendo sobre Javascript
 - :dart: Developer Back-End
 - :computer: Apaixonada por desafios e tecnologia
-- :heart: Voluntária da @ongAmigosdeMinas
+- :heart: Voluntária da @OngAmigosdeMinas
 
 ### Conecte-se comigo:
 [<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andreza-maia/)
