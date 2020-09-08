@@ -1,7 +1,11 @@
 <h2 align="center"> Hello world, I'm Andreza 👋</h1>
 <h1 align="center"><img src="https://media.giphy.com/media/dxu3CvOw4AjYc/giphy.gif" align="center" height="40%" width="40%"> <h1 /></p>
-  
+
+<h3 align="center">" If you can dream, you can do "</h3>
+
 ---
+
+
 - :purple_heart: Aluna da {Reprograma} turma de Back End-XP investimentos
 - :green_book: Aprendendo sobre Javascript
 - :dart: Developer Back-End
