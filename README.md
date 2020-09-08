@@ -1,7 +1,7 @@
 <h2 align="center"> Hello world, I'm Andreza 👋</h1>
 <h1 align="center"><img src="https://media.giphy.com/media/dxu3CvOw4AjYc/giphy.gif" align="center" height="40%" width="40%"> <h1 />
 
-✨
+Em constante aprendizado!<br>
 
 ---
 - :purple_heart: Aluna da {Reprograma} turma de Back End-XP investimentos
