@@ -1,15 +1,20 @@
-#### Olá mundo, Andreza aqui !!
-<img src="https://media.giphy.com/media/dxu3CvOw4AjYc/giphy.gif" align="center" height="40%" width="40%">
+
+<h1 align="center"> Olá mundo, eu sou Andreza !!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/dxu3CvOw4AjYc/giphy.gif" align="center" height="40%" width="40%">
+
+<h4 align="center">Aluna da {Reprograma}</h3>
+<h4 align="center"> Apaixonada por pessoas, desafios e tecnologia </h3>
 
 
-Apaixonada por pessoas, desafios e tecnologia. Em constante aprendizado!<br>
-Aluna da {Reprograma} turma de Back End-XP.
 
-:books:: Java Script<br>
+---
 
+:purple_heart: {Reprograma} turma de Back End da XP Investimentos<br />
+:books: Teste teste <br />
+🌱 Aprendendo sobre Javascript <br />
 
-[![](https://img.shields.io/badge/linkedin-9ed0d5)](https://www.linkedin.com/in/andreza-maia/)
-[![](https://img.shields.io/badge/blog-eebcc1)](andrezamaia87@gmail.com)
-<!--
-**AndrezaMaia/AndrezaMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Connect with me:
+[<img align="left"  width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andreza-maia/)
+[<img align="left" alt="andrezamaya | Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/andrezamaya/)
+<br />
+---
