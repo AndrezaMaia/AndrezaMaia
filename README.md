@@ -1,7 +1,7 @@
 <h2 align="center"> Hello world, I'm Andreza 👋</h2>
-<h3 align="center">" If you can dream, you can do "</h3>
+<h5 align="center">" If you can dream, you can do "</h5>
 
----
+
 
 
 - :purple_heart: Aluna da {Reprograma} turma de Back End-XP investimentos
@@ -10,8 +10,8 @@
 - :computer: Apaixonada por desafios e tecnologia
 - :heart: Voluntária da @OngAmigosdeMinas
 
----
-<img align="left" alt="Andreza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Andreza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&show_icons=true&hide_border=true" /><br />
 
 
 ### Conecte-se comigo:
