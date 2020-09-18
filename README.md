@@ -9,8 +9,14 @@
 - :computer: Apaixonada por desafios e tecnologia
 - :heart: Voluntária da @OngAmigosdeMinas
 
-
-<img align="left" alt="Andreza's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&show_icons=true&hide_border=true" /><br />
+<center>
+<table>
+  <tr>
+      <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&theme=default" /></td>
+ 
+  </tr>   
+</table>
+</center>
 
 
 ### Conecte-se comigo:
