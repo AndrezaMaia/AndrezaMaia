@@ -3,20 +3,20 @@
 
 
 
-- :purple_heart: Aluna da {Reprograma} turma de Back End-XP investimentos
+- :purple_heart: Aluna da {Reprograma} - Back End-XP investimentos
 - :green_book: Aprendendo sobre Javascript
 - :dart: Developer Back-End
 - :computer: Apaixonada por desafios e tecnologia
 - :heart: Voluntária da @OngAmigosdeMinas
 
-<center>
+<right>
 <table>
   <tr>
-      <td><img width="485px" align="left" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&theme=default" /></td>
+      <td><img width="485px" align="right" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&theme=default" /></td>
  
   </tr>   
 </table>
-</center>
+</right>
 
 
 ### Conecte-se comigo:
