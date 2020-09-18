@@ -1,16 +1,14 @@
-<h2 align="center"> Hello world, I'm Andreza 👋</h2>
-
-
+<h2 align="center"> Hello world, I'm Andreza 👋</h2><br>
 
 
 - :purple_heart: Aluna da {Reprograma} - Back End-XP investimentos
 - :green_book: Aprendendo sobre Javascript
 - :dart: Developer Back-End
 - :computer: Apaixonada por desafios e tecnologia
-- :heart: Voluntária da @OngAmigosdeMinas
+- :heart: Voluntária da @OngAmigosdeMinas<br>
 
 
-<td><img width="485px" align="all" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&theme=default" /></td>
+<img width="485px" align="center" src="https://github-readme-stats.vercel.app/api?username=AndrezaMaia&theme=default" />
  
 
 ### Conecte-se comigo:
