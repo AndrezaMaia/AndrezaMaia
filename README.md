@@ -1,5 +1,4 @@
-<h2 align="center"> Hello world, I'm Andreza 👋</h2>
-<h5 align="center">" If you can dream, you can do "</h5>
+<h2 align="center"> Hello world, I'm Andreza 👋</h2><br><br />
 
 
 
